@@ -29,12 +29,13 @@ A dashboard often provides a view of key performance indicators in a clear way. 
 ![image](https://github.com/user-attachments/assets/1c6c905b-66fa-4fc5-b004-a9e4fd6be302)
 - Question:
 ![image](https://github.com/user-attachments/assets/418d1b3c-dab3-4c9c-a66c-bb637f0f7629)
-- Code:
-![image](https://github.com/user-attachments/assets/ae3d0660-aaae-43bb-a086-cec1cfd13942)
+- Output:
+![newplot](https://github.com/user-attachments/assets/9ee93adf-a110-4c91-956c-a940be99c41f)
+
 - Question:
 ![image](https://github.com/user-attachments/assets/53440ffc-3675-458d-adb2-48d6c40fa7ff)
-- Code:
-![image](https://github.com/user-attachments/assets/3118ff98-e3ac-4ac0-9611-b85524f53ba9)
+- Output:
+![newplot (1)](https://github.com/user-attachments/assets/82a324e3-28aa-4fad-b73e-c42702eec795)
 
 
 #### **Above images are just to display overall analysis**
